@@ -1,0 +1,88 @@
+Building Abbr.,Floor,bathroom id on floor ,Room,Additional description,Type of Restroom,No. of Urinals (it might be useful),No. of Stalls,No. of Large Stalls,Business times,Additional remarks,ADA accessible features?,Longitude,Latitude
+ECA,1,1,A108M1,"Inside ECA building, 1st floor",Male,,,,,,,98835,90758
+ECA,1,2,A108W1,"Inside ECA building, 1st floor",Female,,,,,,,88624,46703
+ECA,2,3,A224,"North side of hallway, towards east end. Across ECA 211-212. 2nd floor",Female,,,,Weekdays,,,87358,55937
+ECA,2,4,A239M1,"North side of hallway, towards west end near ECA 239 sign. 2nd floor",Male,4,2,,Weekdays,urinals are very close to each other,,40976,12284
+ECA,3,5,A340,"Eastern side along main hallway, 3rd floor",Female,,,,Weekdays,,,75317,98552
+ECA,3,6,A370M1,"Western side along main hallway, 3rd floor",Male,2,2,,Weekdays,,,82217,82027
+ECA,3,7,A374T1,"Western side along main hallway, 3rd floor",Non-genered,,,,,,,85977,15172
+ECANX,1,1,104W1,Presumably inside the Engineering Center Annex?,Female,,,,,Inaccessible,,68260,40377
+ECANX,1,2,106M1,Presumably inside the Engineering Center Annex?,Male,,,,,Inaccessible ,,49924,35894
+ECB,1,1,B116A,Presumably inside the research hallway?,Non-genered,,,,,Inaccessible,,52606,76912
+ECC,1,1,C101W1,"Outside, near Palm Walk",Female,,,,,,,77478,38598
+ECC,1,2,C102,"Outside, near Palm Walk",Male,4,2,,,Urinals are very close to one another. Sink water sprays all over the place,No button,36153,1066
+ECC,1,3,C128T1,Presumably inside the research hallway?,Non-genered,,,,,Inaccessible,,41440,73047
+ECE,1,1,E101,"Outside, near Palm Walk",Male,4,2,,,Urinals are very try close to one another,No button,14376,13888
+ECE,1,2,E102,"Outside, near Palm Walk",Female,,,,,,,99405,47512
+ECF,1,1,F130T1,Inside ECF 130,Non-genered,,,,,,,29676,70491
+ECG,1,1,G104T1,Inside the SCAI tutoring center (ECG 104),Non-genered,,,,,Might be inside their office G104A,,91467,41879
+ECG,1,2,G139M1,Inside the Engineering Student Center,Male,2,2,1,,Lighting is dim. Napkin dispenser is not working/empty,,15373,27196
+ECG,1,3,G139W1,Inside the Engineering Student Center,Female,,,,,,,65990,24731
+ECG,2,4,G206M1,"On the 2nd floor of ECG, west side behind elevators",Male,3,3,,Weekdays,Urinals are very close to one another,No,69613,29830
+ECG,2,5,G206W1,"On the 2nd floor of ECG, west side behind elevators",Female,,,,,,,89177,77144
+ECG,3,6,G306M1,"On the 3rd floor of ECG, west side behind elevators",Male,,,,,,No,39482,8816
+ECG,3,7,G306W1,"On the 3rd floor of ECG, west side behind elevators",Female,,,,,,,48360,98952
+PSB,2,1,B230B,TBD,Male,4,5,,,Dim lighting,,96938,36304
+PSB,3,2,B330B,TBD,Male,,,,,,,43236,81643
+PSB,L1,3,B01A,TBD,Male,,,,,,,94009,18368
+PSB,L1,4,B01B,TBD,Female,,,,,,,91819,39879
+PSC,1,1,C100T1,Along hallway from Wexler to PSE,Non-genered,,,,,,,42156,28109
+PSC,1,2,C127M2,Along hallway from Wexler to PSE,Male,3,5,,,Urinals are very close to one another. Unpleasant stench,,40682,66835
+PSC,1,3,C129W2,Along hallway from Wexler to PSE,Female,,,,,,,43234,84132
+PSC,2,4,C230A,TBD,Female,,,,,Includes lactation space,,33479,9147
+PSC,3,5,C330A,TBD,Female,,,,,,,32213,83365
+PSD,2,1,D210M1,Along hallway from Wexler to PSE,Male,2,2,,,"""Modern"" looking like MU",,42819,89345
+PSD,2,2,D214T1,Along hallway from Wexler to PSE,Non-genered,,,,,,,76436,61470
+PSD,2,3,D214W1,Along hallway from Wexler to PSE,Female,,,,,,,32846,57421
+PSD,3,4,D310M1,TBD,Male,,,,,,,15878,71298
+PSD,3,5,D314W1,TBD,Female,,,,,,,81545,50772
+PSD,L1,6,D02M1,TBD,Male,,,,,,,53401,97020
+PSD,L1,7,D08W1,TBD,Female,,,,,,,30396,31632
+PSF,1,1,F105,Along hallway to PSF 101,Male,,,,,,,94811,5002
+PSF,1,2,F185,Along hallway to the right of PSF 173,Female,,,,,,,36066,53314
+PSF,1,3,F189,Along hallway to the right of PSF 173,Non-genered,,,,,,,53383,32322
+PSF,2,4,F201,TBD,Male,,,,,,,4759,57952
+PSF,2,5,F205,TBD,Female,,,,,,,32042,29514
+PSF,2,6,F205T1,TBD,Non-genered,,,,,,,89542,6932
+PSF,3,7,F301M1,TBD,Male,,,,,,,64517,68900
+PSF,3,8,F301W1,TBD,Female,,,,,,,7801,95888
+PSF,4,9,F401,TBD,Male,,,,,,,72152,56293
+PSF,4,10,F405,TBD,Female,,,,,,,87998,65138
+PSF,5,11,F503T1,TBD,Non-genered,,,,,,,89811,8320
+PSF,5,12,F570M1,TBD,Male,,,,,,,18733,16800
+PSF,5,13,F570W1,TBD,Female,,,,,,,48196,85848
+PSF,6,14,F644T1,TBD,Non-genered,,,,,,,49680,25953
+PSF,6,15,F670M1,TBD,Male,,,,,,,13176,75389
+PSF,6,16,F670W1,TBD,Female,,,,,,,73288,46180
+PSF,L1,17,F69,TBD,Male,,,,,,,69230,43880
+PSF,L1,18,F71,TBD,Female,,,,,,,2073,72187
+PSG,1,1,G113,Inside PSG,Female,,,,--,Likely inaccessible,,64322,30401
+PSG,1,2,G115,Inside PSG,Male,,,,--,Likely inaccessible,,92106,23178
+PSH,1,1,H149M2,Inside atrium area (around elevators),Male,,,,,,,79300,93153
+PSH,1,2,H149W2,Inside atrium area (around elevators),Female,,,,,,,55901,40905
+PSH,2,3,H249M2,Around elevators,Male,,,,,,,44921,77228
+PSH,2,4,H249W2,Around elevators,Female,,,,,,,53636,73165
+PSH,3,5,H349M2,"To the left of ""turn-in"" boxes",Male,,,,,,,53839,73262
+PSH,3,6,H349W2,"To the left of ""turn-in"" boxes",Female,,,,,,,60692,5817
+PSH,4,7,H449M2,Around elevators,Male,,,,,,,30051,78039
+PSH,4,8,H449W2,Around elevators,Female,,,,,,,31179,59509
+PSH,5,9,H549M2,Around elevators,Male,,,,,,,52625,63494
+PSH,5,10,H549W2,Around elevators,Female,,,,,,,24871,28252
+PSH,L1,11,H49M2,TBD,Male,,,,,,,38772,92580
+PSH,L1,12,H49W2,TBD,Female,,,,,,,41162,79303
+WXLR,2,1,A207,TBD,Female,,,,Weekdays,,,79841,60201
+WXLR,2,2,A209,TBD,Male,,,,Weekdays,,,24850,82539
+WXLR,2,3,A227M1,"In Wexler tower, but behind the Math Dept. front desk",Male,,,,--,Likely inaccessible,,75562,70186
+WXLR,2,4,A227W1,"In Wexler tower, but behind the Math Dept. front desk",Female,,,,--,Likely inaccessible,,30271,94420
+WXLR,3,5,A316,Across tower elevators,Male,,,,Weekdays,,,11198,9421
+WXLR,3,6,A318,Across tower elevators,Female,,,,Weekdays,,,72210,89782
+WXLR,4,7,A416,Across tower elevators,Male,,,,Weekdays,,,80378,36080
+WXLR,4,8,A418,Across tower elevators,Female,,,,Weekdays,,,62777,44072
+WXLR,5,9,A516,Across tower elevators,Male,,,,Weekdays,,,35730,37887
+WXLR,5,10,A518,Across tower elevators,Female,,,,Weekdays,,,55812,399
+WXLR,6,11,A616,Across tower elevators,Male,,,,Weekdays,,,89279,30028
+WXLR,6,12,A618,Across tower elevators,Female,,,,Weekdays,,,56199,67940
+WXLR,7,13,A716,Across tower elevators,Male,,,,Weekdays,,,25553,81193
+WXLR,7,14,A718,Across tower elevators,Female,,,,Weekdays,,,26585,50262
+WXLR,8,15,A816,Across tower elevators,Male,,,,Weekdays,,,99836,75024
+WXLR,8,16,A818,Across tower elevators,Female,,,,Weekdays,,,53403,80016
