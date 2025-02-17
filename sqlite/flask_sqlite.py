@@ -29,6 +29,8 @@ def landing():
         out = f.read()
     return out
 
+# you might need node or php to make htmls work fine?
+# i prefer python. sorry T_T
 @app.route("/thing")
 def query():
     return f"""<!DOCTYPE HTML>
