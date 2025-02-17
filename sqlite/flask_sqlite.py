@@ -30,15 +30,20 @@ def landing():
     return out
 
 # you might need node or php to make htmls work fine?
+# but at the same time we're making a react app in expo
 # i prefer python. sorry T_T
+# perhaps figure things out eventually
 @app.route("/thing")
 def query():
+    myquery = "" # SQL response
     return f"""<!DOCTYPE HTML>
     <html>
         <head>
             <title>Query for building</title>
         </head>
         <body>
+            <h1>Results</h1>
+            <p>{myquery}</p>
         </body>
     </html>
     """
